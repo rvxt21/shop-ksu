@@ -1,0 +1,47 @@
+.col{
+    overflow: hidden;
+    margin-bottom: 15px;
+    max-width: 438px;
+    min-width: 438px;
+}
+.card {
+    max-width: 433px;
+    min-width: 433px;
+    margin-bottom: 15px;
+
+}
+.card-img-top{
+    min-height: 300px;
+    max-height: 300px;
+}
+.cat-button {
+    min-width: 400px;
+
+}
+.card-text{
+    white-space: nowrap;
+    width: 400px;
+    overflow:  hidden;
+    text-overflow: ellipsis;
+    border: 1px solid #ffffff; 
+}
+
+.body {
+    overflow: hidden;
+}
+.card-text{
+    white-space: nowrap;
+    width: 100%;
+    overflow:  hidden;
+    text-overflow: ellipsis;
+    border: 1px solid #ffffff; 
+}
+
+.basbtn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.baskedbtn {
+    min-width: 100px;
+}

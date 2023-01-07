@@ -1,0 +1,29 @@
+.col{
+    overflow: hidden;
+    margin-bottom: 15px;
+    max-width: 448px;
+    min-width: 448px;
+}
+.card {
+    max-width: 453px;
+    min-width: 453px;
+    margin-bottom: 15px;
+    
+
+}
+.card-img-top{
+    max-width: 450px;
+    min-width: 450px;
+    max-height: 300px;
+    min-height: 300px;
+}
+.cat-button {
+    min-width: 210px;
+}
+.card-text{
+    white-space: nowrap;
+    width: 400px;
+    overflow:  hidden;
+    text-overflow: ellipsis;
+    border: 1px solid #ffffff; 
+}
